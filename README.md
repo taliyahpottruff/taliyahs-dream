@@ -12,9 +12,9 @@ The theme is provided for easy install in the official Cinnamon theme menu, howe
 
 Requirements: Cinnamon Desktop Environment and Git. 
 
-1. `git clone https://github.com/taliyahpottruff/faded-dream-cinnamon-theme.git`
-2. `cd faded-dream-cinnamon-theme/`
-3. `cp -r "Faded Dream"/ ~/.themes/`
+1. `git clone https://github.com/taliyahpottruff/taliyahs-dream.git`
+2. `cd taliyahs-dream/`
+3. `cp -r Taliyahs-Dream/ ~/.themes/`
 4. Launch the `Themes` application in Cinnamon
 5. Click the desktop theme
 6. Click Faded Dream
